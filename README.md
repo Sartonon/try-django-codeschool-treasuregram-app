@@ -3,5 +3,9 @@ App built in codeschool course
 
 How to run:
 
-    1. ´´´cmd pip install django```
-    2. 
+```
+pip install django
+```
+```
+python manage.py runserver
+```
