@@ -1,7 +1,7 @@
 # try-django-codeschool-treasuregram-app
 App built in codeschool course
 
-Steps:
+How to run:
 
-    1. pip install django
-    2.
+    1. ´´´cmd pip install django```
+    2. 
